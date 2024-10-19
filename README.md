@@ -12,10 +12,10 @@ Your feedback is highly appreciated! If you have any questions, feature requests
 
 ## How to Use the Playground
 
-1. **Step 1: Upload Your Data**
+1. **Step 1: Upload Your Material Crystal Data**
     - Upload your custom graph data to train a GNN model on it.
 
-2. **Step 2: Train and Evaluate**
+2. **Step 2: Train and Evaluate the Model**
     - Monitor the loss/error rate as the model trains. The playground provides real-time feedback to help you understand model performance.
 
 3. **Step 3: Save Model Weights**
